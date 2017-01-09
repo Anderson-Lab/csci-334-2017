@@ -76,7 +76,16 @@ Homework will be assigned each week and collected each Thursday before the weekl
 Regular theory focused programming assignments will be submitted through the Learn2Mine environment. You will use Python to complete the assignments. Usernames and passwords will be supplied, but you may install your own software as well on your local computer.
 
 <b>Programming Projects</b>
-Programming projects will be submitted through OAKS in the form of a write-up. For these projects, you may work with a partner, but you must submit your own write-up.
+Programming projects will be submitted through OAKS in the form of a write-up. For these projects, you may work with a partner, but you must submit your own write-up in the following format:
+
+<b>
+Your write-up must have the following headings and you must answer the following:<br/>
+a.)	What were the steps you carried out to arrive at your answer? i.e., describe your process.
+<br/>
+b.)	Please provide documentation of the correctness of your answer (screenshots, code examples, etc).
+<br/>
+c.)	Are there any portions of your answer that are not completed, wrong, or otherwise a problem?
+</b>
 
 <b>Honor Code: </b>
 You must do your work alone (or with your teammates, for group assignments).<br>
@@ -100,155 +109,74 @@ class, assignment due dates, etc.
 classmates right to learn (see College of Charleston Student Handbook (http://studentaffairs.cofc.edu/honorsystem/
 studenthandbook/index.php) , section on Classroom Code of Conduct (p. 58)).
 
-<b>Late Policy</b>
+<b>Late Policy: </b>
 No late days will be allowed without an excuse. This course is an upper level course, and it will move very fast.
 Falling behind on assignments will make it difficult to achieve the learning outcomes of this course.
 
-<b>Final Exam</b>
+<b>Final Exam: </b>
 No final exam.
 
-<b>Facebook Group</b>
+<b>Facebook Group: </b>
 Everyone must join the Facebook group for class discussions: 
-<a href="https://www.facebook.com/groups/1534410590185173/">https://www.facebook.com/groups/1534410590185173/</a>
+<a href="https://www.facebook.com/groups/1632204273751877/">https://www.facebook.com/groups/1632204273751877/</a>. If you do not join, you might miss important announcements and discussions.
 
 # Schedule
 You are responsible for coming prepared to class. This includes reading through the material before attending class.
-You will get a lot more out of the lectures and discussions in this manner. It is cliche, but true. Each week will follow a similar pattern. On Tuesday new material will be introduced and discussed. Thursday will start with an exam over the previous week's material. Followed by an interactive exercise. This will sometimes be guided. sometimes in groups, and sometimes individually. The schedule below is tentative and subject to change. You must check it regularly. 
+You will get a lot more out of the lectures and discussions in this manner. It is cliche, but true. Each week will follow a similar pattern. The course focuses both on the theory of data mining and its practical application. Most classes will start with an exam over the previous week's material. followed by a lecture on new material. Followed by an interactive exercise focusing on the theory. Follwed by an interactive lecture/exercise focusing on the application. This will sometimes be guided. sometimes in groups, and sometimes individually. The schedule below is tentative and subject to change. You must check it regularly. 
 
-### Week 1
+<b>Week 1:</b><br/>
 No class as we meet on Monday and the semester hasn't started yet.
 
-### Week 2
-* Introduction to Learning (Chapter 1)
+<b>Week 2:</b><br/>
+Introduction to Learning (Chapter 1)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/introductiontomlanddatamining">Prepared Notes</a>
-* Preliminaries (Chapter 2)
+
+Preliminaries (Chapter 2)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/somemlanddmbasics">Prepared Notes</a>
 <br>
 <a href="https://www.dropbox.com/s/sm7wt4odz539cq8/Bayesian%20Classification.ppt?dl=0">Bayes Classification</a>
-* Worksheet on Testing Machine Learning Algorithms and Naive Bayes Classifier
+
+Worksheet on Testing Machine Learning Algorithms and Naive Bayes Classifier
 <br>
 <a href="https://www.dropbox.com/s/4ux94cweg4j3yij/01%20Worksheet%20and%20Homework.doc?dl=0">Worksheet and Homework</a>
 
-### Week 3
+Introduction to Programming Assignments and our first one!
+<br>
+
+1. Get username and password to online environment. You can also download and run locally, but you are on your own if you do that. Some suggestions if you go that route: https://www.quora.com/What-is-the-best-Python-IDE-for-doing-data-analysis-science-and-ML-on-Macs
+
+2. Join Learn2Mine Class
+
+3. Complete the online introductory assignments on Learn2Mine
+
+4. Complete the following programming assignment. 
+
+## Programming Assignment 1
+Using the naive Bayesian classifier in scikit learn, train a model on Titanic dataset that we used on Learn2Mine and is available on Kaggle. Try at least three different types of models by varying parameters and methods. Report both your internal training accuracy and the test set accuracy calculated by Kaggle. Here is a link to get you started: http://scikit-learn.org/stable/modules/naive_bayes.html. But these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix.
+
+<b>Week 3:</b><br/>
 Exam over syllabus
 
 * Neural Networks and Linear Discriminants (Chapter 3)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/introductiontovectorsandmatrixalgebraforcomputerscientists">Prepared Notes</a>
 
+<b>Week 4:</b><br/>
+Exam over Chapter 1 and 2
 
-### Week 4
-* Exam over Chapter 1 and 2
-* Worksheet related to neural networks
+Worksheet related to neural networks
 <br>
 <a href="https://www.dropbox.com/s/rvn9ibr1epdk2jz/02%20Worksheet%20and%20Homework.pdf?dl=0">Worksheet and Homework</a>
 
-### Tuesday
-* Multi-layer Perceptron (Chapter 4)
+Multi-layer Perceptron (Chapter 4)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/multilayerperceptronexample">Prepared Notes</a>
 
-### Thursday
-* Exam over Chapter 3
-* Worksheet related to neural networks
+Worksheet related to neural networks
 <br>
 <a href="https://www.dropbox.com/s/aw4x0xdnn96xx6z/03%20Worksheet%20and%20Homework.pdf?dl=0">Worksheet and Homework</a>
-
-### Week 5
-### Tuesday
-<a href="http://anderson-lab.github.io/introduction-to-data-science-programming-in-python/">Introduction to Data Science Programming (Python)</a>
-
-### Thursday
-* Exam over Chapter 4
-* Introduction to and lab day on programming project
-<br>
-To view part 1 of the project, join the class on Learn2Mine by clicking on the link in the Facebook group. This part of the project should be completed before class next Thursday.
-
-### Week 6
-### Tuesday
-* Dimensionality reduction (Chapter 6)
-<br>
-<a href="https://www.dropbox.com/s/8brmj96fe7l8fjv/Principal%20Component%20Analysis.ppt?dl=0">PCA Prepared notes</a>
-
-### Thursday
-* Worksheet on dimensionality reduction
-<a href="https://www.dropbox.com/s/po70qkp01x4e4t4/04%20Worksheet%20and%20Homework.docx?dl=0">Worksheet and Homework</a>
-
-### Week 7
-### Tuesday
-* Dimensionality reduction (Chapter 6)
-
-### Week 8
-### Tuesday
-* Support Vector Machines (Chapter 8)
-<br>
-<a href="https://www.evernote.com/pub/w100pea/supportvectormachines">Prepared notes</a>
-
-### Thursday
-* Worksheet on LDA and SVMs
-<a href="http://anderson-lab.github.io/csci-334-05-worksheet-homework-spring-2016/">Worksheet and Homework</a>
-
-### Week 9
-### Tuesday
-* Learning with Trees (Chapter 12)
-<br>
-<a href="http://prezi.com/6mmslqn-2f5r/?utm_campaign=share&utm_medium=copy&rc=ex0share">Prepared notes</a>
-
-### Thursday
-* Exam on LDA and SVMs
-* <a href="https://www.dropbox.com/s/7tjshu7a6zget5q/06%20Decision%20Tree%20Worksheet.pdf?dl=0">Worksheet on learning with trees</a>
-
-### Week 10
-Spring break
-
-### Week 11
-### Tuesday
-* <a href="https://www.evernote.com/pub/w100pea/ensemblelearning">Decision by Committee (Chapter 13)</a>
-* Introduction to programming project 2
-
-### Thursday
-* Exam on learning with trees
-
-### Week 12
-### Tuesday
-* Optimization and search (Chapter 9) (Read)
-* Evolutionary Learning (Chapter 10) (<a href="https://www.evernote.com/pub/w100pea/evolutionarylearning">Notes</a>)
-
-### Thursday
-* Worksheet on optimization and search
-* Worksheet on Evolutionary Learning
-
-### Week 13
-### Tuesday
-* Unsupervised Learning (<a href="https://prezi.com/hc4klvtb8xdb/k-means-and-hierarchical-clustering/?utm_campaign=share&utm_medium=copy">Notes</a>)
-
-### Thursday
-* Worksheet on optimization, search, evolutionary learning, and unsupervised learning
-* <a href="https://www.dropbox.com/s/g92wrkc8iu7o909/Clustering%20Sample%20Problems.docx?dl=0">Worksheet Part 1</a>
-* <a href="https://www.dropbox.com/s/d51vaa7ktwbspve/Samples%20Problems.pdf?dl=0">Worksheet Part 2</a>
-
-### Week 14
-### Tuesday
-* Introduction to programming project 3
-* <a href="https://www.dropbox.com/s/yst09cl63a1m891/Final%20Project.pdf?dl=0">Final Project</a>
-
-### Thursday
-* Exam on optimization, search, evolutionary learning, and unsupervised learning (worth double and double the time)
-* Final Project Lab Time
-
-### Week 15
-### Tuesday
-* Announcement: SSM Poster Session Extra Credit - Find a student from CS Department. Take a picture and upload it to OAKS. Information: http://ssm.cofc.edu/additional-programs/poster-session/ 
-* Final Project Lab Time
-
-### Thursday
-* Complete Online Course Evaluations
-* Final Project Lab Time
-
-### Week 16
-Paul at Conference. No class on Tuesday.
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
