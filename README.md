@@ -1,25 +1,25 @@
 # Syllabus
-### Course Description
+## Course Description
 A course covering data mining concepts, methodologies, and programming. Topics include
 decision tables and trees, classification and association rules, clustering, pattern analysis, and linear and statistical
 modeling. Additional topics may include data cleaning and warehousing and techniques for text and web mining.
 
-### Required Text
+## Required Text
 Machine Learning: An Algorithmic Perspective by Stephen Marsland (2nd edition). Required. <a href="http://www.amazon.com/Machine-Learning-Algorithmic-Perspective-Recognition/dp/1466583282">Link</a>
 
-### Prerequisites
+## Prerequisites
 CSCI 221, MATH 207, MATH 250
 
 ## Contact Information
 Professor: Dr. Paul Anderson<br>
 Office: 313 Harbor Walk East<br>
-Office Hours: Tuesday and Thursday from 10 - 11:20. AM<br>
+Office Hours: Monday by appointment<br>
 Office Hour Policy: My door is always open. Even if it isn't because of hallway noise, please knock. I love to hear from students. If you would like an appointment, please e-mail me.<br>
 E-mail: andersonpe2@cofc.edu<br>
 Phone: 843-953-8151
 
 ## Course Times
-Tuesday and Thursday from 11:20 AM - 12:35 PM in HWEA 301
+Monday from 5:00 - 7:30 PM in HWWE 112
 
 ## Learning Outcomes
 1. Know the meaning of data mining, some of the application areas and disciplines that use data mining, and
@@ -41,16 +41,15 @@ clustering quality.
 11. Explore the use of data mining techniques on different datasets using software packages.
 
 ## Grading Policy
-Exams - 60%<br>
-Homework - 10%<br>
-Programming Projects - 20%<br>
-Final Project and Presentation - 10%
+Exams - 40%<br>
+Written Homework and Learn2Mine Coding - 40%<br>
+Programming Projects - 20%
 
 ## Grading Scale
 A: 90-100; B: 80-89; C: 70-79; D: 65-69; F: <65. Plusses and minuses will be used at the
 discretion of the instructor.
 
-### Grading Guidelines
+## Grading Guidelines
 Submitted work requires Analysis, Evaluation, and Creation of ideas, concepts, and
 materials into various deliverables (e.g., see revised Bloom's Taxonomy
 (http://www.nwlink.com/~donclark/hrd/bloom.html) and reference below).
@@ -67,16 +66,19 @@ Bloom's taxonomy for CS assessment. In Proceedings of the tenth conference on Au
 - Volume 78 (ACE '08), Simon Hamilton and Margaret Hamilton (Eds.), Vol. 78. Australian Computer Society,
 Inc., Darlinghurst, Australia, Australia, 155-161.
 
-### Exam Policy
+## Policies
+<b>Exam Policy:</b>
 Student performance will be accessed through weekly exams. Each exam will cover the material from the previous week. They will last no more than 15 minutes. No makeup exams will be allowed. Your lowest exam grade will be dropped.
 
-### Homework Policy
+<b>Homework Policy and Learn2Mine Coding:</b>
 Homework will be assigned each week and collected each Thursday before the weekly exam. Homework will be graded pass or fail and are designed to help you study for the exams. For the majority of the classes, the worksheets will double as assigned homework for you to turn in before the following exam.
 
-### Programming Projects
-Programming projects will be submitted through the Learn2Mine environment. You may use either Python or R to complete the assignments. Usernames and passwords will be supplied, but you may install your own software as well on your local computer.
+Regular theory focused programming assignments will be submitted through the Learn2Mine environment. You will use Python to complete the assignments. Usernames and passwords will be supplied, but you may install your own software as well on your local computer.
 
-### Honor Code
+<b>Programming Projects</b>
+Programming projects will be submitted through OAKS in the form of a write-up. For these projects, you may work with a partner, but you must submit your own write-up.
+
+<b>Honor Code: </b>
 You must do your work alone (or with your teammates, for group assignments).<br>
 You must identify your sources of material and inspiration. It is a violation of the honor code to present
 someone else's work or ideas as your own.<br>
@@ -85,7 +87,7 @@ any, and explain their contribution to your work.<br>
 Also see the College of Charleston Student Handbook, especially sections on The Honor Code (p. 11), and
 Student Code of Conduct (p. 12). There is other useful information there.
 
-### Classroom Policies
+<b>Classroom Policies: </b>
 * Tuesday will be devoted to introducing new material. It has been shown in numerous studies that even having a laptop open during this type of instruction negatively affects not only your learning but those around you. Because of this, we will have a strict no
 laptop policy open on the desk on Tuesday. I will do my best to record all lectures and post them in a timely fashion.<br>
 * You are expected to take good notes during class.
@@ -98,14 +100,14 @@ class, assignment due dates, etc.
 classmates right to learn (see College of Charleston Student Handbook (http://studentaffairs.cofc.edu/honorsystem/
 studenthandbook/index.php) , section on Classroom Code of Conduct (p. 58)).
 
-### Late Policy
+<b>Late Policy</b>
 No late days will be allowed without an excuse. This course is an upper level course, and it will move very fast.
 Falling behind on assignments will make it difficult to achieve the learning outcomes of this course.
 
-### Final Exam
-April 28th from 8 - 11 AM. This time will be used for final project presentations.
+<b>Final Exam</b>
+No final exam.
 
-## Facebook Group
+<b>Facebook Group</b>
 Everyone must join the Facebook group for class discussions: 
 <a href="https://www.facebook.com/groups/1534410590185173/">https://www.facebook.com/groups/1534410590185173/</a>
 
@@ -114,15 +116,9 @@ You are responsible for coming prepared to class. This includes reading through 
 You will get a lot more out of the lectures and discussions in this manner. It is cliche, but true. Each week will follow a similar pattern. On Tuesday new material will be introduced and discussed. Thursday will start with an exam over the previous week's material. Followed by an interactive exercise. This will sometimes be guided. sometimes in groups, and sometimes individually. The schedule below is tentative and subject to change. You must check it regularly. 
 
 ### Week 1
-### Tuesday
-No class
-
-### Thursday
-* Introduction to course and syllabus
-* Introduction to learning and data mining (if time)
+No class as we meet on Monday and the semester hasn't started yet.
 
 ### Week 2
-### Tuesday
 * Introduction to Learning (Chapter 1)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/introductiontomlanddatamining">Prepared Notes</a>
@@ -131,26 +127,24 @@ No class
 <a href="https://www.evernote.com/pub/w100pea/somemlanddmbasics">Prepared Notes</a>
 <br>
 <a href="https://www.dropbox.com/s/sm7wt4odz539cq8/Bayesian%20Classification.ppt?dl=0">Bayes Classification</a>
-
-### Thursday
-* Exam over syllabus
 * Worksheet on Testing Machine Learning Algorithms and Naive Bayes Classifier
 <br>
 <a href="https://www.dropbox.com/s/4ux94cweg4j3yij/01%20Worksheet%20and%20Homework.doc?dl=0">Worksheet and Homework</a>
 
 ### Week 3
-### Tuesday
+Exam over syllabus
+
 * Neural Networks and Linear Discriminants (Chapter 3)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/introductiontovectorsandmatrixalgebraforcomputerscientists">Prepared Notes</a>
 
-### Thursday
+
+### Week 4
 * Exam over Chapter 1 and 2
 * Worksheet related to neural networks
 <br>
 <a href="https://www.dropbox.com/s/rvn9ibr1epdk2jz/02%20Worksheet%20and%20Homework.pdf?dl=0">Worksheet and Homework</a>
 
-### Week 4
 ### Tuesday
 * Multi-layer Perceptron (Chapter 4)
 <br>
@@ -255,9 +249,6 @@ Spring break
 
 ### Week 16
 Paul at Conference. No class on Tuesday.
-
-### Final Exam
-April 28th from 8 - 11 AM. This time will be used for final project presentations.
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
