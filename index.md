@@ -1,4 +1,5 @@
 # Syllabus
+
 ## Course Description
 A course covering data mining concepts, methodologies, and programming. Topics include
 decision tables and trees, classification and association rules, clustering, pattern analysis, and linear and statistical
@@ -73,7 +74,7 @@ Student performance will be accessed through weekly exams. Each exam will cover 
 <b>Homework Policy and Learn2Mine Coding:</b>
 Homework will be assigned each week and collected each Thursday before the weekly exam. Homework will be graded pass or fail and are designed to help you study for the exams. For the majority of the classes, the worksheets will double as assigned homework for you to turn in before the following exam.
 
-Regular theory focused programming assignments will be submitted through the Learn2Mine environment. You will use Python to complete the assignments. Usernames and passwords will be supplied, but you may install your own software as well on your local computer.
+Regular theory focused programming assignments will be submitted through the Learn2Mine environment. You will use Python to complete the assignments. Usernames and passwords will be supplied, but you may install your own software as well on your local computer, but installation problems will not be supported.
 
 <b>Programming Projects</b>
 Programming projects will be submitted through OAKS in the form of a write-up. For these projects, you may work with a partner, but you must submit your own write-up in the following format:
@@ -122,12 +123,15 @@ Everyone must join the Facebook group for class discussions:
 
 # Schedule
 You are responsible for coming prepared to class. This includes reading through the material before attending class.
-You will get a lot more out of the lectures and discussions in this manner. It is cliche, but true. Each week will follow a similar pattern. The course focuses both on the theory of data mining and its practical application. Most classes will start with an exam over the previous week's material. followed by a lecture on new material. Followed by an interactive exercise focusing on the theory. Follwed by an interactive lecture/exercise focusing on the application. This will sometimes be guided. sometimes in groups, and sometimes individually. The schedule below is tentative and subject to change. You must check it regularly. 
+You will get a lot more out of the lectures and discussions in this manner. It is cliche, but true. Each week will follow a similar pattern. The course focuses both on the theory of data mining, maching learning, and its practical application. Most classes will start with an exam over the previous week's material. followed by a lecture on new material. Followed by an interactive exercise focusing on the theory. Follwed by an interactive lecture/exercise focusing on the application. This will sometimes be guided. sometimes in groups, and sometimes individually. The schedule below is tentative and subject to change. You must check it regularly. 
 
 <b>Week 1:</b><br/>
 No class as we meet on Monday and the semester hasn't started yet.
 
 <b>Week 2:</b><br/>
+No class due to MLK day.
+
+<b>Week 3:</b><br/>
 Introduction to Learning (Chapter 1)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/introductiontomlanddatamining">Prepared Notes</a>
@@ -156,15 +160,15 @@ Introduction to Programming Assignments and our first one!
 ## Programming Assignment 1
 Using the naive Bayesian classifier in scikit learn, train a model on Titanic dataset that we used on Learn2Mine and is available on Kaggle. Try at least three different types of models by varying parameters and methods. Report both your internal training accuracy and the test set accuracy calculated by Kaggle. Here is a link to get you started: http://scikit-learn.org/stable/modules/naive_bayes.html. But these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix.
 
-<b>Week 3:</b><br/>
-Exam over syllabus
+<b>Week 4:</b><br/>
+Exam over introductory material and Bayes classifier.
 
 * Neural Networks and Linear Discriminants (Chapter 3)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/introductiontovectorsandmatrixalgebraforcomputerscientists">Prepared Notes</a>
 
-<b>Week 4:</b><br/>
-Exam over Chapter 1 and 2
+<b>Week 5:</b><br/>
+Exam over Chapter 3
 
 Worksheet related to neural networks
 <br>
