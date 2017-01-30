@@ -72,7 +72,7 @@ Inc., Darlinghurst, Australia, Australia, 155-161.
 Student performance will be accessed through weekly exams. Each exam will cover the material from the previous week. They will last no more than 15 minutes. No makeup exams will be allowed. Your lowest exam grade will be dropped.
 
 <b>Homework Policy and Learn2Mine Coding:</b>
-Homework will be assigned each week and collected each Thursday before the weekly exam. Homework will be graded pass or fail and are designed to help you study for the exams. For the majority of the classes, the worksheets will double as assigned homework for you to turn in before the following exam.
+Homework will be assigned each week and collected before the weekly exam. Homework will be graded pass or fail and are designed to help you study for the exams. For the majority of the classes, the worksheets will double as assigned homework for you to turn in before the following exam.
 
 Regular theory focused programming assignments will be submitted through the Learn2Mine environment. You will use Python to complete the assignments. Usernames and passwords will be supplied, but you may install your own software as well on your local computer, but installation problems will not be supported.
 
@@ -98,8 +98,7 @@ Also see the College of Charleston Student Handbook, especially sections on The 
 Student Code of Conduct (p. 12). There is other useful information there.
 
 <b>Classroom Policies: </b>
-* Tuesday will be devoted to introducing new material. It has been shown in numerous studies that even having a laptop open during this type of instruction negatively affects not only your learning but those around you. Because of this, we will have a strict no
-laptop policy open on the desk on Tuesday. I will do my best to record all lectures and post them in a timely fashion.<br>
+* The beginning of the class will be devoted to introducing new material. It has been shown in numerous studies that even having a laptop open during this type of instruction negatively affects not only your learning but those around you. Because of this, I recommend you put your laptop away for this portion. I will do my best to record all lectures and post them in a timely fashion (sorry. the room we are in doesn't support this).<br>
 * You are expected to take good notes during class.
 * You are expected to participate in class with questions and invited discussion.
 * You are expected to attend all classes. The grade 'WA' will be given for excessive (>= 3) absences. If you
