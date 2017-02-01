@@ -173,6 +173,8 @@ Introduction to Programming Assignments and our first one!
 ## Programming Assignment 1
 Using the naive Bayesian classifier in scikit learn, train a model on Titanic dataset that we used on Learn2Mine and is available on Kaggle. Try at least three different types of models by varying parameters and methods. Report both your internal training accuracy and the test set accuracy calculated by Kaggle. Here is a link to get you started: http://scikit-learn.org/stable/modules/naive_bayes.html. But these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix.
 
+If time, but probably the following week:
+
 Multi-layer Perceptron (Chapter 4)
 <br>
 <a href="https://www.evernote.com/pub/w100pea/multilayerperceptronexample">Prepared Notes</a>
