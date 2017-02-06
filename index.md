@@ -171,7 +171,10 @@ Introduction to Programming Assignments and our first one!
 4. Complete the following programming assignment. 
 
 ## Programming Assignment 1
-Using the naive Bayesian classifier in scikit learn, train a model on Titanic dataset that we used on Learn2Mine and is available on Kaggle. Try at least three different types of models by varying parameters and methods. Report both your internal training accuracy and the test set accuracy calculated by Kaggle. Here is a link to get you started: http://scikit-learn.org/stable/modules/naive_bayes.html. But these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix.
+Using the naive Bayesian classifier in scikit learn, train a model on Titanic dataset that we used on Learn2Mine and is available on Kaggle. Try at least three different types of models by varying parameters and methods. Report both your internal training accuracy and the test set accuracy calculated by Kaggle. Also, please generate a ROC curve and calculate the area under the curve for at least one of your models. 
+
+Here is a link to get you started: http://scikit-learn.org/stable/modules/naive_bayes.html. But these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
+<hr>
 
 If time, but probably the following week:
 
