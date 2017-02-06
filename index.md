@@ -170,6 +170,7 @@ Introduction to Programming Assignments and our first one!
 
 4. Complete the following programming assignment. 
 
+<hr>
 ## Programming Assignment 1
 Using the naive Bayesian classifier in scikit learn, train a model on Titanic dataset that we used on Learn2Mine and is available on Kaggle. Try at least three different types of models by varying parameters and methods. Report both your internal training accuracy and the test set accuracy calculated by Kaggle. Also, please generate a ROC curve and calculate the area under the curve for at least one of your models. 
 
