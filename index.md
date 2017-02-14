@@ -177,7 +177,7 @@ Using the naive Bayesian classifier in scikit learn, train a model on Titanic da
 Here is a link to get you started: http://scikit-learn.org/stable/modules/naive_bayes.html. But these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
 <hr>
 
-If time, but probably the following week:
+<b>Week 6:</b><br/>
 
 Multi-layer Perceptron (Chapter 4)
 <br>
@@ -186,6 +186,14 @@ Multi-layer Perceptron (Chapter 4)
 Worksheet related to neural networks
 <br>
 <a href="https://www.dropbox.com/s/aw4x0xdnn96xx6z/03%20Worksheet%20and%20Homework.pdf?dl=0">Worksheet and Homework</a>
+
+<b>Week 7:</b><br/>
+No class. Dr. Anderson is at a conference.
+
+<b>Week 8:</b><br/>
+Exam over Chapter 4 and the previous worksheet (due at start of class).
+
+Neural networks in scikit-learn.
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
