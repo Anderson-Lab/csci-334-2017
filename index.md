@@ -193,6 +193,15 @@ No class. Dr. Anderson is at a conference.
 <b>Week 8:</b><br/>
 Exam over Chapter 4 and the previous worksheet (due at start of class).
 
+<hr>
+## Programming Assignment 2
+Using the MLPClassifier, analyze the MNIST dataset (http://yann.lecun.com/exdb/mnist/). Here is some good starter code (http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mnist_filters.html#sphx-glr-auto-examples-neural-networks-plot-mnist-filters-py). The MNIST link has a bunch of ideas about the architectures of the neural networks that work well (http://yann.lecun.com/exdb/mnist/).  Try at least 5 different architectures and parameters. Generate a ROC(s) curve using cross-validation (http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py). Summarize the AUCs of your different models and synthesize your overall results. You can use leave-one-out or k-fold cross-validation. How do your results compare to the best available results for the MNIST data?
+
+Now that you've got experience with the MNIST dataset, answer the following questions: What is the baseline accuracy for this dataset? i.e., what if you just guessed the label with the maximum number of samples? What architecture seemed to work the best? How many training iterations did it require?
+
+Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
+<hr>
+
 <b>Week 10:</b><br/>
 No exam. Programming assignments due by midnight.
 
@@ -202,14 +211,6 @@ Dimensionality Reduction (Chapter 6)
 <br>
 <a href="https://www.dropbox.com/s/rcqanfzjjl6qjvr/PCA%20Worksheet.pdf?dl=0">Worksheet</a>
 
-<hr>
-## Programming Assignment 2
-Using the MLPClassifier, analyze the MNIST dataset (http://yann.lecun.com/exdb/mnist/). Here is some good starter code (http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mnist_filters.html#sphx-glr-auto-examples-neural-networks-plot-mnist-filters-py). The MNIST link has a bunch of ideas about the architectures of the neural networks that work well (http://yann.lecun.com/exdb/mnist/).  Try at least 5 different architectures and parameters. Generate a ROC(s) curve using cross-validation (http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py). Summarize the AUCs of your different models and synthesize your overall results. You can use leave-one-out or k-fold cross-validation. How do your results compare to the best available results for the MNIST data?
-
-Now that you've got experience with the MNIST dataset, answer the following questions: What is the baseline accuracy for this dataset? i.e., what if you just guessed the label with the maximum number of samples? What architecture seemed to work the best? How many training iterations did it require?
-
-Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
-<hr>
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
