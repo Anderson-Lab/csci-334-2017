@@ -193,6 +193,15 @@ No class. Dr. Anderson is at a conference.
 <b>Week 8:</b><br/>
 Exam over Chapter 4 and the previous worksheet (due at start of class).
 
+<b>Week 10:</b><br/>
+No exam. Programming assignments due by midnight.
+
+Dimensionality Reduction (Chapter 6)
+<br>
+<a href="https://www.dropbox.com/s/m9763d3xts1xa62/Principal%20Component%20Analysis.ppt?dl=0">Notes</a>
+<br>
+<a href="https://www.dropbox.com/s/rcqanfzjjl6qjvr/PCA%20Worksheet.pdf?dl=0">Worksheet</a>
+
 <hr>
 ## Programming Assignment 2
 Using the MLPClassifier, analyze the MNIST dataset (http://yann.lecun.com/exdb/mnist/). Here is some good starter code (http://scikit-learn.org/stable/auto_examples/neural_networks/plot_mnist_filters.html#sphx-glr-auto-examples-neural-networks-plot-mnist-filters-py). The MNIST link has a bunch of ideas about the architectures of the neural networks that work well (http://yann.lecun.com/exdb/mnist/).  Try at least 5 different architectures and parameters. Generate a ROC(s) curve using cross-validation (http://scikit-learn.org/stable/auto_examples/model_selection/plot_roc_crossval.html#sphx-glr-auto-examples-model-selection-plot-roc-crossval-py). Summarize the AUCs of your different models and synthesize your overall results. You can use leave-one-out or k-fold cross-validation. How do your results compare to the best available results for the MNIST data?
