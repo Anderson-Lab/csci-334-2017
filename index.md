@@ -211,6 +211,27 @@ Dimensionality Reduction (Chapter 6)
 <br>
 <a href="https://www.dropbox.com/s/rcqanfzjjl6qjvr/PCA%20Worksheet.pdf?dl=0">Worksheet</a>
 
+<b>Week 11:</b><br/>
+Exam over PCA and Dimensionality Reduction (Chapter 6)
+
+Learn2Mine PCA Assignment
+
+<hr>
+## Programming Assignment 3
+We are going to stick with the MNIST dataset for this assignment. First thing that I want you to do is visualize the data using PCA. Specifically:
+1. Randomly sample the data so we have somewhere around 1000 samples. Here is some code that can help:
+<pre>inxs = np.random.randint(y.shape[0], size=1000)
+y = y[inxs]
+X = X[inxs,:]</pre>
+2. Now use the PCA functions in sklearn (http://scikit-learn.org/stable/modules/generated/sklearn.decomposition.PCA.html) and matplotlib to visualize the first 2 principal components. 
+3. How many principal componenents would you need to reach 90% of the variance explained? Make a plot showing the cummulative percent variance explained on the y-axis and the number of components on the X-axis.
+
+Now that the basics are done, I'd like you to practice with another example use of PCA and that is using it in a chain with a classifier. Here is an example with logsitic regression: http://scikit-learn.org/stable/auto_examples/plot_digits_pipe.html#sphx-glr-auto-examples-plot-digits-pipe-py. For this first attempt, just use logistic regression, which we can talk about in a later class. If you can't get the multiple labels to work, then just pick two digits you are trying to tell apart. Say 6 and 8, which should be one of the more challenging ones. Use the standard set of ROC+AUC, accuracy, sensitivity, etc to show how your algorithms are performing.
+
+Once you are done with that, try chaining PCA with your MLPClassifier from before. How do the results compare?
+
+Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
+<hr>
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
