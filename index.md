@@ -236,6 +236,15 @@ Once you are done with that, try chaining PCA with your MLPClassifier from befor
 Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
 <hr>
 
+<b>Week 12:</b><br/>
+LDA (Chapter 6)
+* <a href="https://www.dropbox.com/s/2aq3krxrn1ldtd3/LDA%20Notes.pdf?dl=0">Notes</a>
+
+Support Vector Machine (SVM) (Chapter 7)
+* <a href="https://www.evernote.com/shard/s70/nl/7871345/d6ee4878-ddf1-499b-be87-0633eac3991e">Notes</a>
+
+<a href="https://anderson-lab.github.io/csci-334-2017-lda-svm-worksheet/">Worksheet</a>
+
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
 <a href="http://anderson-lab.github.io/"><img src="http://freyja.cs.cofc.edu/Paul-labs-logo.png" alt="Data Science Research Lab" height="100" align="right" hspace="10px"></a>
