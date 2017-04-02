@@ -245,6 +245,11 @@ Support Vector Machine (SVM) (Chapter 7)
 
 <a href="https://anderson-lab.github.io/csci-334-2017-lda-svm-worksheet/">Worksheet</a>
 
+<b>Week 13:</b><br/>
+Exam over LDA and SVM.
+
+Programming day.
+
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
 <a href="http://anderson-lab.github.io/"><img src="http://freyja.cs.cofc.edu/Paul-labs-logo.png" alt="Data Science Research Lab" height="100" align="right" hspace="10px"></a>
