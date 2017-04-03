@@ -249,7 +249,7 @@ Support Vector Machine (SVM) (Chapter 7)
 Exam over LDA and SVM.
 
 Programming Day Activities:
-1. Generating a ROC curve. <a href="">ROC worksheet</a>
+1. Generating a ROC curve. <a href="https://www.dropbox.com/s/jndw6z6wr86jg01/ROC%2BCurve%2BWorksheet.ipynb?dl=0">ROC worksheet</a>
 2. Learning to check the correctness of your code is difficult. Using that feedback to improve it is challenging as well. You are going to do two of the following: fix two non-trivial bugs, improve a non-trivial deficiency, or make an improvement to your existing code. Here are the steps: (i). Find a partner. (ii) Identify the two things you want to address ideally one from each of your code. Document the problems in the start of a report to be turned in when finished. (iii). Work with your partner and me to come up with a strategy to tackle the problem. Document your strategy in the report. (iv) Actually try to fix the problem, etc. (v). Report on what worked and what did not work. (vi) Upload your document to Dropbox.
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
