@@ -253,12 +253,14 @@ Programming Day Activities:
 2. Learning to check the correctness of your code is difficult. Using that feedback to improve it is challenging as well. You are going to do two of the following: fix two non-trivial bugs, improve a non-trivial deficiency, or make an improvement to your existing code. Here are the steps: (i). Find a partner. (ii) Identify the two things you want to address ideally one from each of your code. Document the problems in the start of a report to be turned in when finished. (iii). Work with your partner and me to come up with a strategy to tackle the problem. Document your strategy in the report. (iv) Actually try to fix the problem, etc. (v). Report on what worked and what did not work. (vi) Upload your document to Dropbox.
 
 <b>Week 14:</b><br/>
-Decision Trees and Ensemble Methods
+Decision Trees (Chapter 12) and Ensemble Methods (Chapter 13)
 
 <a href="https://www.dropbox.com/s/euec7jgxtb2hnd8/Decision%20Tree%20Worksheet.pdf?dl=0">Worksheet</a>
 
 <b>Week 15:</b><br/>
-Unsupervised learning and programming day for decision trees
+Exam over decision trees and ensemble methods
+
+Unsupervised learning (Chapter 14) and programming day for decision trees
 
 <b>Week 16:</b><br/>
 Last week of classes!
