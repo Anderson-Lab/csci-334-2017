@@ -255,6 +255,10 @@ Programming Day Activities:
 <b>Week 14:</b><br/>
 Decision Trees (Chapter 12) and Ensemble Methods (Chapter 13)
 
+<a href="http://prezi.com/6mmslqn-2f5r/?utm_campaign=share&utm_medium=copy&rc=ex0share">Notes on decision trees</a>
+
+<a href="https://www.evernote.com/pub/w100pea/ensemblelearning">Notes on ensemble methods</a>
+
 <a href="https://www.dropbox.com/s/euec7jgxtb2hnd8/Decision%20Tree%20Worksheet.pdf?dl=0">Worksheet</a>
 
 <b>Week 15:</b><br/>
