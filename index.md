@@ -264,12 +264,24 @@ Decision Trees (Chapter 12) and Ensemble Methods (Chapter 13)
 <b>Week 15:</b><br/>
 Exam over decision trees and ensemble methods
 
-Unsupervised learning (Chapter 14) and programming day for decision trees
+Unsupervised learning (Chapter 14) and programming day
+
+Programming assignments:
+1. Learn2Mine new assignments
+2. Programming assignment 4
+
+<hr>
+## Programming Assignment 4
+We are going to stick with the MNIST dataset for this assignment and start comparing algorithms. In addition to the MLP and SVM classifiers you can now create, compare those algorithms to decision trees and random forest ensemble method. Make sure you put your results in a table :) Which one worked? What parameters seemed to matter? Why?
+
+Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
+<hr>
+
 
 <b>Week 16:</b><br/>
 Last week of classes!
 
-Putting everything together programming day
+A colleague and old friend of mine who now works for IBM is the speaker at the department research speaker series. His presentation is at 3:30 in Harbor Walk East on Monday. For the final week of classes, there will be two options: 1. Attend the research series seminar and prepare a short report on the talk (1 - page max). Or 2. Complete a programming assignment that I'll add here next weekend.
 
 # <a href="http://anderson-lab.github.io/">Anderson Data Science Research Lab</a>
 <p align="justify">
