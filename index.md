@@ -266,6 +266,8 @@ Exam over decision trees and ensemble methods
 
 Unsupervised learning (Chapter 14) and programming day
 
+<a href="https://www.dropbox.com/s/hpclbsjx2s6wtlc/Clustering%20Sample%20Problems.docx?dl=0">Clustering worksheet</a>
+
 Programming assignments:
 1. Learn2Mine new assignments
 2. Programming assignment 4
