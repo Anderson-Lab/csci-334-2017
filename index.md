@@ -279,6 +279,15 @@ We are going to stick with the MNIST dataset for this assignment and start compa
 Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
 <hr>
 
+<hr>
+## Programming Assignment 5
+(optional in case you couldn't make the talk from Jason Gilder or if you want extra credit you can do both)
+
+Sticking with the MNIST dataset. You've done a comparison of different algorithms, but we haven't considered adding errors bounds(confidence intervals) to our performance metrics. While there are multiples ways to do this, I want you to generate confidence intervals and visualize the distribution of scores you for the methods you compared in assignment 4. Here is some example code that will get you started: <a href="http://stackoverflow.com/questions/19124239/scikit-learn-roc-curve-with-confidence-intervals">http://stackoverflow.com/questions/19124239/scikit-learn-roc-curve-with-confidence-intervals</a>
+
+Remember, these programming assignments are not recipe driven on purpose. They are for you to experiment with publically available packages and apply them. You can work with your partner, but you must submit your own report to OAKS. It MUST follow the format specified in the syllabus, or I will return it without grading for you to fix. 
+<hr>
+
 
 <b>Week 16:</b><br/>
 Last week of classes!
